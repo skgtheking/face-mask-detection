@@ -1,0 +1,9 @@
+venv/
+preprocessed_data/
+*.npy
+*.pyd
+*.dll
+*.h5
+*.pb
+*.log
+__pycache__/
